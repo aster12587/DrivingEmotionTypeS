@@ -30,7 +30,7 @@ root/
 ## 参考リンク
 
 - [Speedrun.com](https://www.speedrun.com/DRIVING_EMOTION_TYPES)
-- [スクエニ公式サイト](https://www.jp.square-enix.com/game/detail/types/<>)
+- [スクエニ公式サイト](https://www.jp.square-enix.com/game/detail/types/)
 - [Wikipedia](https://ja.wikipedia.org/wiki/DRIVING_EMOTION_TYPE-S)
 - [Wikipedia(海外)](https://en.wikipedia.org/wiki/Driving_Emotion_Type-S)
 - [ゲームカタログ@Wiki](https://w.atwiki.jp/gcmatome/pages/2812.html)
