@@ -8,8 +8,8 @@ rawファイルをダウンロードするとHTMLファイルが取れます
 - All Car Unlock / New Game
   - [まだ](https://www.google.co.jp/ "まだ")
 
-- Best The Game / New Game
-  - [シルビアチャート](https://github.com/aster12587/DrivingEmotionTypeS/blob/main/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88/BestTheGame-NewGame/Html/%E3%82%B7%E3%83%AB%E3%83%93%E3%82%A2%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88.html "シルビアチャート.html")
+- Beat The Game / New Game
+  - [シルビアチャート](https://github.com/aster12587/DrivingEmotionTypeS/blob/main/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88/BeatTheGame-NewGame/Html/%E3%82%B7%E3%83%AB%E3%83%93%E3%82%A2%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88.html "シルビアチャート.html")
   - [グリフィスチャート(作成中)](https://www.google.co.jp/ "まだ")
 
 ## リポジトリフォルダ構成
@@ -20,7 +20,7 @@ root/
 　│　├ AllCarUnlock-NewGame/
 　│　│　├ Html/
 　│　│　└ Markdown/
-　│　└ BestTheGame-NewGame/
+　│　└ BeatTheGame-NewGame/
 　│　　 ├ Html/
 　│　　 └ Markdown/
 　├ .gitignore
