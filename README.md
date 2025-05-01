@@ -7,8 +7,8 @@ PS2専用ソフト `DRIVING EMOTION TYPE-S` のRTAに関する情報をまとめ
   - 作成中
 
 - Beat The Game / New Game
-  - [シルビアチャート](https://github.com/aster12587/DrivingEmotionTypeS/blob/main/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88/BeatTheGame-NewGame/Markdown/%E3%82%B7%E3%83%AB%E3%83%93%E3%82%A2%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88.md "シルビアチャート")
   - [グリフィスチャート](https://github.com/aster12587/DrivingEmotionTypeS/blob/docs/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88/BeatTheGame-NewGame/Markdown/%E3%82%B0%E3%83%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88.md "グリフィスチャート")
+  - [シルビアチャート](https://github.com/aster12587/DrivingEmotionTypeS/blob/main/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88/BeatTheGame-NewGame/Markdown/%E3%82%B7%E3%83%AB%E3%83%93%E3%82%A2%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88.md "シルビアチャート")
 
 ※ローカルでチャートを閲覧したい場合はHtmlフォルダから各チャートのHTMLファイルをダウンロードしてください
 
