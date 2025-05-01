@@ -16,6 +16,7 @@ PS2専用ソフト `DRIVING EMOTION TYPE-S` のRTAに関する情報をまとめ
 
 ``` code
 root/
+　├ Tips/
 　├ チャート/
 　│　├ AllCarUnlock-NewGame/
 　│　│　├ Html/
