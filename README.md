@@ -1,5 +1,5 @@
-# DrivingEmotionTypeS
-PS2専用ソフト DRIVING EMOTION TYPE-SのRTAに関する情報をまとめたリポジトリ
+# DRIVING EMOTION TYPE-S
+PS2専用ソフト `DRIVING EMOTION TYPE-S` のRTAに関する情報をまとめたリポジトリ
 
 ## チャート置き場
 
